@@ -1,4 +1,4 @@
-//jshint esversion:6
+// web app url : https://immense-harbor-86105.herokuapp.com/
 
 const express = require("express");
 const bodyParser = require("body-parser");
