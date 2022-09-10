@@ -2,9 +2,11 @@
 1、Introduction
 
 
-To Do List is a simple Web application. Its main function is as a online notepad. I built it while I am learning full stack development based on Node.js/ Express.js.
+To Do List is a simple Web application. Its main function is as a online notepad. It has two main functions: data persistence and auto-create function.
 
-The business logic is written in Javascript. It has been deployed on Heroku and you can access it by following the link below：
+I built it while I am learning full stack development based on Node.js/ Express.js. The business logic is written in Javascript. 
+
+It has been deployed on Heroku and you can access it by following the link below：
  
  https://immense-harbor-86105.herokuapp.com/
  
@@ -31,7 +33,7 @@ Details:
 
 To Do List is as a online notepad. You can do some basic CRUD operations (create, read, delete). And since it using MongoDB Atlas as cloud database, all data will be saved.
 
-2. AUTO-ADD CUSTOM TITLE TODOLIST
+2. AUTO-CREATE TODOLIST WITH CUSTOM TITLE 
 
 You can create a new todolist with custom title. You only need add the title name you want as the URL suffix. The system will automatically create a new todolist for you.
 
