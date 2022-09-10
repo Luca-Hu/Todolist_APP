@@ -1,4 +1,3 @@
-// --------------------------------------
 
 1、Introduction
 
@@ -10,7 +9,7 @@ The business logic is written in Javascript. It has been deployed on Heroku and 
  https://immense-harbor-86105.herokuapp.com/
  
 
-// --------------------------------------
+-----------------------------------
 
 2、The technologies involved in this project
 
@@ -24,7 +23,7 @@ Details:
 - FrontEnd & BackEnd Deployment: Heroku
 - System Configuration Platform: Unix
 
-// --------------------------------------
+-----------------------------------
 
 3、Web Application Function Description
 
@@ -36,7 +35,7 @@ To Do List is as a online notepad. You can do some basic CRUD operations (create
 
 You can create a new todolist with custom title. You only need add the title name you want as the URL suffix. The system will automatically create a new todolist for you.
 
-// --------------------------------------
+-----------------------------------
 
 4、Demonstration
 
@@ -50,7 +49,7 @@ You can create a new todolist with custom title. You only need add the title nam
 ![image](https://user-images.githubusercontent.com/69294450/189473202-ad45fffe-0b89-4f39-a5c7-8b07948a6bf5.png)
 
 
-// --------------------------------------
+----------------------------------
 
 5、If you have any questions or advices, please let me know.
 
