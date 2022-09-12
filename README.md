@@ -4,7 +4,7 @@
 
 To Do List is a simple Web application. Its main function is as a online notepad. It has two main functions: data persistence and auto-create function.
 
-I built it while I am learning full stack development based on Node.js/ Express.js. The business logic is written in Javascript. 
+I built it while I am learning full stack development based on Node.js/ Express.js. The business logic is written by Javascript. 
 
 It has been deployed on Heroku and you can access it by following the link below：
  
