@@ -2,7 +2,7 @@
 1、Introduction
 
 
-To Do List is a simple Web application. Its main function is as a online notepad. It has two main functions: data persistence and auto-create function.
+To Do List is a simple Web application. Its main function is as an online notepad. It has two main functions: data persistence and auto-create function.
 
 I built it while I am learning full stack development based on Node.js/ Express.js. The business logic is written by Javascript. 
 
