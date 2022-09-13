@@ -55,6 +55,6 @@ You can create a new todolist with custom title. You only need add the title nam
 
 5、If you have any questions or advices, please let me know.
 
-My Linken Account： www.linkedin.com/in/yi-hu-58852321a
+My Linken Account：  < https://linkedin.com/in/yihu-tech >
 
 My Email： yihu@smu.edu 
